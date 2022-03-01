@@ -1,0 +1,1 @@
+# hibernate-single-table-inheritance-using-spring-boot
